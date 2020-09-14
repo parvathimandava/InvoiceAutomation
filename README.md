@@ -1,4 +1,4 @@
-# Generate Invoices from CSV file with Python - UpWork Job Solution — https://youtu.be/icvjtqoufMM (video on YouTube)
+# Generate Invoices from CSV file with Python - UpWork Job Solution 
 
 
 ## Setup Python Virtual Environment
